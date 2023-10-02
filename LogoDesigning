@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">
+  <!-- Circle background -->
+  <circle cx="100" cy="100" r="90" fill="#3498db" />
+  <text x="47" y="120" font-family="Arial, sans-serif" font-size="50" fill="white">IDPA</text>
+</svg>
